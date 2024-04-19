@@ -6,7 +6,7 @@ set(CMAKE_BUILD_TYPE Debug)
 
 project(project3-trie)
 
-set(CMAKE_CXX_STANDARD 14)
+set(CMAKE_CXX_STANDARD 23)
 
 include_directories(.)
 
